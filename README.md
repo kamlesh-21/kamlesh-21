@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kamlesh-21
 - 👀 I’m in pursuit of understanding computer science in depth to do challenging and innovative projects with high level tools.
 - 🌱 I’m currently learning Architecture, Databases, Data Structures and Algorithms, Designing Programs & more... 
-- 💞️ I’m looking to collaborate on developing web3 ecosystem 
+- 💞️ I’m looking to collaborate & learn more on developing Technologies  
 - 📫 How to reach me  - kumar2105k@gmail.com 
 
 <!---

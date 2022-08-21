@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kamlesh-21
+- 👋 Hi, I’m @kamlesh-21. LLb(Hons)|MBA|BHM 
 - 👀 I’m in self pursuit of understanding computer science & engineering in depth to do challenging and innovative projects with high level tools.
 - 🌱 I’m currently learning Architecture, Databases, Data Structures and Algorithms, Designing Programs & more... 
-- 👀 I’m on a reverse journey from Corporate & Inside Sales, Operations, ATL/BTL/Digital Marketing, & finally to "Computer Science & Programming"
-- 💞️ I’m looking to collaborate & learn more on developing Technologies. Open to roles.  
+- 👀 I started my career with Hotel Operation, moved up to Corp Sales & Marketing (ATL/BTL/Digital). Then I was responsible for profit center for 5 years. I have a marketing consulting startup now  🚀👩‍💻.
+- 💞️ I’m looking to collaborate & learn more on developing Technologies especially Web Development & AI. Open to roles.  
 - 📫 How to reach me  - kumar2105k@gmail.com 
 
 <!---

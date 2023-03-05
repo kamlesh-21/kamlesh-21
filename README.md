@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @kamlesh-21. with 12+ years of experience in Marketing and Corporate Sales
-- 👀 I’m in self pursuit of understanding computer science & engineering in depth to do challenging and innovative projects with high level tools.
-- 🌱 I’m currently learning Programming Languages, Data Structures and Algorithms, How to better design the programs & more... 
-- 👀 I started my career with Corp Sales & Marketing. Then went on to head profit center for 5+ years (pre pandemic). I am working with a consulting startup now  🚀👩‍💻.
-- 💞️ I’m looking to collaborate & learn more on developing Technologies. Open to roles.  
+- 👋 Hi, I’m @kamlesh-21. with 12+ years of experience in Marketing (ATL/BTL/Dgital) and Corporate Sales, largely in hospitality and Internet segment.
+- 👀 I’m in self pursuit of understanding web and software development to enhance my skillset, and take upon challenging and innovative projects.
+- 🌱 In my current web dev journey, i am learning front end web development with technologies such as HTML, CSS, Javascript, API, Bootstrap, React, Advanced React. Also possess basic level understanding and expereince in C, sqlite, python and flask.
+- 👀 In the past i have headed profit center with P&L responsibilities, led team of Inside Sales Execs and ran my own startup for 1.5 years. Currently assisting an Electric Vehicle startup in Sales and Digital marketing (content development, social media campaigns, lead generation)  🚀👩‍💻.
+- 💞️ I’m looking to collaborate & work on developing Technologies. Open to roles.  
 - 📫 How to reach me  - kumar2105k@gmail.com 
 
 <!---
